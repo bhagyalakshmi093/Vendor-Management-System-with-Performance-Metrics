@@ -1,4 +1,6 @@
-Features
+                                             VENDOR MANAGEMNET SYSTEM
+    A Vendor Management System (VMS) built using Django and Django REST Framework. This system manages vendor profiles, tracks purchase orders, and calculates vendor performance metrics.                                         
+Features:
 Vendor Profile Management:
 
 Create, retrieve, update, and delete vendor profiles.
@@ -55,7 +57,7 @@ Sample JSON for Creating a New Vendor
 "fulfillment_rate": 98.0
 }
 
-Sample JSON for Acknowledging a Purchase Order Create a file named acknowledge_purchase_order.json with the following content:
+Sample JSON for Acknowledging a Purchase Order.
 
 json  
 
